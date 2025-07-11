@@ -1,10 +1,9 @@
 # VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems
 <div align="center">
 
-[[Website]](https://voyager.minedojo.org/)
-[[Arxiv]](https://arxiv.org/abs/2305.16291)
-[[PDF]](https://voyager.minedojo.org/assets/documents/voyager.pdf)
-ALL TODO
+[[Website]](https://esmyth-dev.github.io/VoyagerVision.github.io/)
+[[Arxiv]](https://arxiv.org/abs/2507.00079)
+[[PDF]](https://arxiv.org/pdf/2507.00079)
 
 [![Python Version](https://img.shields.io/badge/Python-3.9-blue.svg)](https://github.com/MineDojo/Voyager)
 [![GitHub license](https://img.shields.io/github/license/MineDojo/Voyager)](https://github.com/MineDojo/Voyager/blob/main/LICENSE)
@@ -187,13 +186,16 @@ If you have any questions, please check our [FAQ](FAQ.md) first before opening a
 If you find our work useful, please consider citing us! 
 
 ```bibtex
-@article{wang2023voyager,
-  title   = {Voyager: An Open-Ended Embodied Agent with Large Language Models},
-  author  = {Guanzhi Wang and Yuqi Xie and Yunfan Jiang and Ajay Mandlekar and Chaowei Xiao and Yuke Zhu and Linxi Fan and Anima Anandkumar},
-  year    = {2023},
-  journal = {arXiv preprint arXiv: Arxiv-2305.16291}
+@misc{smyth2025voyagervisioninvestigatingrolemultimodal,
+      title={VoyagerVision: Investigating the Role of Multi-modal Information for Open-ended Learning Systems}, 
+      author={Ethan Smyth and Alessandro Suglia},
+      year={2025},
+      eprint={2507.00079},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2507.00079}, 
+}
 }
 ```
-TODO
 
 Disclaimer: This project is strictly for research purposes.
